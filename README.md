@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 👋 Hi, I’m @Richard Mlambuzi
+- 👋 I’m Richard Mlambuzi
 
 - 🌱 I’m currently studying education in computer science @ (UNIMA)
 
