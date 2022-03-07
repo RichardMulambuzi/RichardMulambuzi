@@ -5,12 +5,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m @Richard Mlambuzi
+
+- 🌱 I’m currently studying education in computer science @ (UNIMA)
+
+- 💬 Ask me about Java, react, javaScript,Postgres and web development.
+
+- 🔭 I’m currently working on react react apps, restful API and Java Projects.
+
+- 👯 I’m looking to collaborate on Nsika.com project
+
+- 👀 I’m interested in making websites
+
+- 💞️ I’m looking to collaborate on creating websites
+
+- 📫 reach me through richardmlambuzi5@gmail.com
+
+- 😄 Pronouns:----------------------------
+
+- ⚡ Fun fact:---------------------------
