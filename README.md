@@ -4,23 +4,30 @@
 **bed-com-29-19/bed-com-29-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+👋 Hi there! I'm Richard Mlambuzi 👋
 
-- 👋 I’m Richard Mlambuzi
+🌱 Studying computer science education @ UNIMA
 
-- 🌱 I’m currently studying education in computer science @ (UNIMA)
+💬 Ask me about Java, React, JavaScript, PostgreSQL, and web development
 
-- 💬 Ask me about Java, react, javaScript,Postgres and web development.
+🔭 Currently working on React apps, RESTful APIs, and Java projects
 
-- 🔭 I’m currently working on react react apps, restful API and Java Projects.
+👯 Looking to collaborate on the exciting Nsika.com project
 
-- 👯 I’m looking to collaborate on Nsika.com project
+👀 Passionate about creating stunning websites
 
-- 👀 I’m interested in making websites
+💞️ Seeking collaboration opportunities for website development
 
-- 💞️ I’m looking to collaborate on creating websites
+📫 Reach me at richardmlambuzi5@gmail.com
 
-- 📫 reach me through richardmlambuzi5@gmail.com
+🚀 Skills & Interests:
+- Web Development 🌐
+- Full Stack Development 🖥️
+- Database Management Systems 🗄️
+- Java Programming ☕
+- Python 🐍
+- JavaScript ⚡
+- Adobe Photoshop 🎨
+- Computer Technician 💻
 
-- 😄 Pronouns:----------------------------
-
-- ⚡ Fun fact:---------------------------
+Let's connect and create something amazing together! 😄
