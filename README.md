@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Richard Mlambuzi 👋</h1>
+<h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Richard Mlambuzi</h1>
 
 <p align="center">
   🌱 Studying computer science education @ UNIMA<br>
