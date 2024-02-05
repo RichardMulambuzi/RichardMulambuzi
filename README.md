@@ -1,38 +1,42 @@
 <h1 align="center">Hi there <img width="45" src="waving_hand.gif" alt="hand" />, I'm Richard Mlambuzi</h1>
 
+# 🗝️ About Me
+
 <p align="center">
   🌱 Studying computer science education @ UNIMA<br>
+  👨‍💻 <b>Senior Software Engineer</b> with 3+ years of software development experience.
   💬 Ask me about Java, React, JavaScript, PostgreSQL, and web development<br>
   🔭 Currently working on React apps, RESTful APIs, and Java projects<br>
-  👯 Looking to collaborate on the exciting Nsika.com project<br>
   👀 Passionate about creating stunning websites<br>
-  💞️ Seeking collaboration opportunities for website development<br>
+  💞️ Seeking collaboration opportunities for website, android app, and API development<br>
   📫 Reach me at richardmlambuzi5@gmail.com<br>
 </p>
 
 <h2 align="center">🚀 Skills & Interests:</h2>
 <p align="center">
-  - Web Development 🌐<br>
-  - Full Stack Development 🖥️<br>
+  - Full Stack Web Development 🖥️<🌐<br>
   - Database Management Systems 🗄️<br>
+  -Android App Development<br>
+  -Fluter and Dart programing
   - Java Programming ☕<br>
-  - Python 🐍<br>
-  - JavaScript ⚡<br>
-  - Adobe Photoshop 🎨<br>
-  - Computer Technician 💻<br>
+  - Python Programming🐍<br>
+  - JavaScript  Programing⚡<br>
 </p>
+<h2 align="center">🚀 Design and Graphics :</h2>
+<p align="center">
 
+  -Figma<br>
+  -Adobe Photoshop 🎨<br>
+  -Canva<br>
+  -Adobe Premier<br>
+  -Adobe AfterEffecs<br>
+  - Computer Technician 💻<br>
+  </p>
 <h2 align="center">Let's connect and create something amazing together! 😄</h2>
 
 ![](https://komarev.com/ghpvc/?username=ahmnouira-st&style=flat&label=PROFILE+VIEWS&color=blue)
 [![wakatime](https://wakatime.com/badge/user/46b90438-4acb-4c78-9d39-dcc04f80c6ce.svg)](https://wakatime.com/@46b90438-4acb-4c78-9d39-dcc04f80c6ce)
 
-# 🗝️ About Me
-
-- 💼 Always <b>looking for a new better job</b>
-- 👨‍💻 <b>Senior Software Engineer</b> with 7+ years of software development experience.
-- 👯 Looking to collaborate on projects
-- 💬 Ask me about any help -=^.^=-
 
 # 🤝 Contact Me
 
@@ -69,15 +73,7 @@
 # ✍️ Blogs
 
 <p align ="center">
-  <a href="https://www.instructables.com/member/Ahmed+Nouira/">
-  <img src="https://img.shields.io/badge/-instructables.com-333?style=for-the-badge&logo=instructables&logoColor=#faac18"/>
-  </a>
-  <a href="https://dev.to/ahmnouira">
-  <img src="https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-   <a href="https://medium.com/@ahmnouira">
-  <img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
+ -Not Yet Published
  </p>
 
 # 📺 Youtube
