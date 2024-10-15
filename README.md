@@ -4,9 +4,7 @@
 
 ## 🌟 About Me
 
-<p align="center">
-  <img alt="coding" width="400" src="/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
-</p>
+<p align="center"><img  alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">  </p>
 
 <p align="center">
   🎓 Computer Science Education student @ UNIMA<br>
