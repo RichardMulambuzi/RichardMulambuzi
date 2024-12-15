@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Features
 
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=RichardMulambuzi&theme=tokyonight_duo">
@@ -55,6 +55,18 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=RichardMulambuzi&theme=gruvbox">
+    <img src="https://github-profile-trophy.vercel.app/?username=RichardMulambuzi&theme=gruvbox" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RichardMulambuzi">
+    <img src="https://activity-graph.herokuapp.com/graph?username=RichardMulambuzi&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
+
 ---
 
 ## 🤝 Let's Connect
@@ -62,6 +74,9 @@
 <p align="center">
   <a href="https://wa.me/265991673436" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ahmnouira" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/richard-mlambuzi-501bb4229" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
