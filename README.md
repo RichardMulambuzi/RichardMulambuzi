@@ -8,25 +8,47 @@
 
 <p align="center">
   🎓 Computer Science Education student @ UNIMA<br>
-  💻 Senior Software Engineer | 3+ years of experience in full-stack development <br>
-  🔯 Currently working on React Apps, RESTful APIs and Java Projects <br>
-  💬 Let's chat about Java, React, JavaScript, PostgreSQL and Web Development <br>
+  💻 Highly Experienced Senior Software Engineer | 3+ years of experience in full-stack development <br>
+  🔯 Currently working on React Apps, RESTful APIs, and Java Projects <br>
+  💬 Let's chat about Java, React, JavaScript, PostgreSQL, and Web Development <br>
   📧 Reach me at <a href="mailto:richardmlambuzi5@gmail.com">richardmlambuzi5@gmail.com</a>
 </p>
 
 ---
 
-## 🚀 Skills & Interests
+## 🚀 Skills & Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,flutter,python,postgresql,solidity,rust,nodejs" alt="skills-icons" />
-</p>
+### Programming Languages
+- **Java**: Expertise in Java development, including Java 8 and 11
+- **C++**: Proficient in C++ development, with experience in C++11 and C++14
+- **C**: Skilled in C development, with experience in C99 and C11
+- **JavaScript**: Experienced in JavaScript development, including ES6 and ES7
+- **Python**: Knowledgeable in Python development, including Python 3.x
+- **Kotlin**: Familiarity with Kotlin development, including Kotlin 1.x
 
-- **Languages**: Java, JavaScript, TypeScript, Python  
-- **Frameworks**: React, Next.js, Flutter  
-- **Backend**: Node.js, PostgreSQL  
-- **Mobile**: Android (Flutter & Dart)  
-- **Blockchain**: Solidity, Rust
+### Web Development
+- **React**: Expertise in React development, including React Hooks and Context API
+- **Angular**: Knowledgeable in Angular development, including Angular 2.x and Angular 4.x
+- **Vue.js**: Familiarity with Vue.js development, including Vue.js 2.x
+
+### Databases
+- **PostgreSQL**: Experienced in PostgreSQL development, including database design and optimization
+- **MySQL**: Knowledgeable in MySQL development, including database design and optimization
+- **MongoDB**: Familiarity with MongoDB development, including NoSQL database design and optimization
+
+### Cyber Security
+- **OWASP**: Knowledgeable in OWASP security principles and best practices
+- **Security Testing**: Experienced in security testing, including penetration testing and vulnerability assessment
+- **Compliance**: Familiarity with compliance frameworks, including HIPAA and PCI-DSS
+
+### Cloud Platforms
+- **AWS**: Experienced in AWS development, including EC2, S3, and Lambda
+- **Azure**: Knowledgeable in Azure development, including Azure Functions and Azure Storage
+- **Google Cloud**: Familiarity with Google Cloud development, including Google Cloud Functions and Google Cloud Storage
+
+### Agile Methodologies
+- **Scrum**: Experienced in Scrum development, including daily stand-ups and sprint planning
+- **Kanban**: Knowledgeable in Kanban development, including continuous delivery and continuous integration
 
 ---
 
@@ -69,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/RichardMulambuzi/awesome-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardMulambuzi&repo=RichardMulambuzi&theme=nightowl" alt="Pinned Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardMulambuzi&repo=awesome-projects&theme=nightowl" alt="Pinned Repository" />
   </a>
 </p>
 
@@ -99,6 +121,20 @@
 
 ---
 
+## ✨ Animations & Interactions
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Full-Stack+Developer!;Let's+Build+Something+Great!" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RichardMulambuzi">
+    <img src="https://github.com/RichardMulambuzi/github-widget/blob/main/interactive_widget.gif" alt="Interactive Widget" />
+  </a>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -116,6 +152,28 @@
   </a>
   <a href="https://www.facebook.com/richardmlambuzi" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://snapchat.com/t/jtSa78C8" target="_blank">
+    <img src="https://img.shields.io/badge/-Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+  </a>
+  <a href="https://www.tiktok.com/@soundmind26?_t=8sFLGsrtU50&_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@simpsoft265?feature=shared" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://x.com/simp_soft" target="_blank">
+    <img src="https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.paypal.com/donate?business=richardmlambuzi5%40gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-PayPal-yellow?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
 
