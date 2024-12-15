@@ -173,15 +173,6 @@
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.paypal.com/donate?business=richardmlambuzi5%40gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-PayPal-yellow?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
-</p>
-
----
-## ☕ Support Me
-
-<p align="center">
   <!-- PayPal -->
   <a href="https://www.paypal.com/donate?business=richardmlambuzi5%40gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-PayPal-yellow?style=for-the-badge&logo=paypal&logoColor=white" />
@@ -189,17 +180,17 @@
 
   <!-- Airtel Money -->
   <a href="YOUR_AIRTEL_MONEY_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Airtel%20Money-Airtel%20Malawi-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg..." />
+    <img src="https://img.shields.io/badge/Airtel%20Money-Airtel%20Malawi-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg..." />
   </a>
 
   <!-- MPAMBA -->
   <a href="YOUR_MPAMBA_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/MPAMBA-Telekom%20Networks%20Malawi-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg..." />
+    <img src="https://img.shields.io/badge/MPAMBA-Telekom%20Networks%20Malawi-green?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg..." />
   </a>
 
   <!-- National Bank of Malawi -->
   <a href="YOUR_NBM_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/National%20Bank%20of%20Malawi-NBM-green?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg..." />
+    <img src="https://img.shields.io/badge/National%20Bank%20of%20Malawi-NBM-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg..." />
   </a>
 </p>
 
