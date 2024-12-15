@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://github.com/RichardMulambuzi/awesome-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardMulambuzi&repo=awesome-projects&theme=nightowl" alt="Pinned Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardMulambuzi&repo=RichardMulambuzi&theme=nightowl" alt="Pinned Repository" />
   </a>
 </p>
 
