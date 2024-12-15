@@ -67,6 +67,36 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/RichardMulambuzi/awesome-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RichardMulambuzi&repo=awesome-projects&theme=nightowl" alt="Pinned Repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RichardMulambuzi">
+    <img src="https://github-contributor-stats.vercel.app/api?username=RichardMulambuzi&theme=dark" alt="GitHub Contributor Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardMulambuzi&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardMulambuzi&theme=github_dark" alt="Profile Details" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMulambuzi&layout=compact&theme=nightowl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMulambuzi&layout=compact&theme=nightowl" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=RichardMulambuzi&theme=nightowl" alt="Coding Streak" />
+  </a>
+</p>
+
 ---
 
 ## 🤝 Let's Connect
