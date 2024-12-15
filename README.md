@@ -137,9 +137,118 @@
 </p>
 
 ---
+# 🚀 **Skills & Expertise**
 
+## **Programming Languages**  
+- **Java**  
+  Expertise in Java development, including Java 8 and Java 11, with a focus on object-oriented programming, concurrency, and performance optimization.  
+  ![Java](https://img.shields.io/badge/Java-8%2F11-green)
 
-## 🤝 Let's Connect
+- **C++**  
+  Proficient in C++ development, including C++11 and C++14 features. Strong understanding of memory management, system-level programming, and algorithm optimization.  
+  ![C++](https://img.shields.io/badge/C%2B%2B-11%2F14-blue)
+
+- **C**  
+  Skilled in C (C99, C11), focusing on low-level programming, efficient memory management, and embedded system development.  
+  ![C](https://img.shields.io/badge/C-99%2F11-orange)
+
+- **JavaScript**  
+  Experienced with JavaScript (ES6/ES7), including asynchronous programming, callbacks, promises, and ES modules for creating dynamic web applications.  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2FES7-yellow)
+
+- **Python**  
+  Knowledgeable in Python 3.x for web development, automation, data processing, and scripting. Proficient in libraries such as Flask, Django, and Pandas.  
+  ![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+- **Kotlin**  
+  Familiar with Kotlin 1.x, leveraging its modern features for Android development and cross-platform mobile apps.  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-1.x-purple)
+
+---
+
+## **Web Development**  
+- **React.js**  
+  Expertise in building dynamic, state-driven UIs using React Hooks, Context API, and functional components for scalable front-end development.  
+  ![React](https://img.shields.io/badge/React-16.8%2F17-blue)
+
+- **Angular**  
+  Knowledge of Angular 2.x/4.x, including component-based architecture, services, RxJS for reactive programming, and dependency injection.  
+  ![Angular](https://img.shields.io/badge/Angular-2.x%2F4.x-red)
+
+- **Vue.js**  
+  Familiar with Vue.js 2.x, using its simple and flexible structure to build responsive, high-performance web applications.  
+  ![Vue.js](https://img.shields.io/badge/Vue.js-2.x-green)
+
+---
+
+## **Databases**  
+- **PostgreSQL**  
+  Experienced in PostgreSQL database design, optimization, and management, with a focus on SQL queries, indexing, and relational data modeling.  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v12%2F13-blue)
+
+- **MySQL**  
+  Proficient in MySQL database management, query optimization, and replication for building scalable, high-availability applications.  
+  ![MySQL](https://img.shields.io/badge/MySQL-v5.7%2F8.0-orange)
+
+- **MongoDB**  
+  Familiar with MongoDB (NoSQL), focusing on data modeling, aggregation framework, and optimization for large-scale applications.  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-v4.x-green)
+
+---
+
+## **Cyber Security**  
+- **OWASP**  
+  Knowledge of OWASP security principles, including secure coding practices and common vulnerabilities (e.g., SQL Injection, XSS, CSRF).  
+  ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-red)
+
+- **Security Testing**  
+  Experienced in conducting penetration tests, vulnerability assessments, and ensuring secure coding practices in web and mobile apps.  
+  ![Penetration Testing](https://img.shields.io/badge/Pen%20Testing-Experienced-orange)
+
+- **Compliance**  
+  Familiar with compliance frameworks such as HIPAA and PCI-DSS, ensuring applications meet privacy and security standards.  
+  ![Compliance](https://img.shields.io/badge/Compliance-HIPAA%2FPPCI-DSS-green)
+
+---
+
+## **Cloud Platforms**  
+- **AWS**  
+  Proficient in AWS services, including EC2, S3, Lambda, IAM, and CloudWatch, with experience in deploying scalable, fault-tolerant applications.  
+  ![AWS](https://img.shields.io/badge/AWS-EC2%2FS3%2FLambda-yellow)
+
+- **Azure**  
+  Knowledgeable in Microsoft Azure services like Azure Functions, Azure Storage, and Azure Active Directory for building cloud solutions.  
+  ![Azure](https://img.shields.io/badge/Azure-Functions%2FStorage-lightblue)
+
+- **Google Cloud**  
+  Familiar with Google Cloud services such as Google Cloud Functions, Firebase, and Google Cloud Storage for serverless applications and cloud storage.  
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Functions%2FFirebase-orange)
+
+---
+
+## **Agile Methodologies**  
+- **Scrum**  
+  Experienced in Agile Scrum practices, including daily stand-ups, sprint planning, and retrospectives to foster collaborative development.  
+  ![Scrum](https://img.shields.io/badge/Scrum-Successful%20Experience-green)
+
+- **Kanban**  
+  Knowledgeable in Kanban, using visual task management for continuous delivery and optimizing development processes.  
+  ![Kanban](https://img.shields.io/badge/Kanban-Expert-blue)
+
+---
+
+### 🔧 **Technologies & Tools**  
+| **Tool**  | **Description**  |  
+|:---:|:---:|  
+| 🖥️ **Git** | Version control, collaboration, and code sharing |  
+| 🛠️ **Docker** | Containerization for scalable applications |  
+| 📦 **Kubernetes** | Orchestration for containerized applications |  
+| 💡 **CI/CD** | Continuous Integration and Deployment (Jenkins, CircleCI, GitHub Actions) |  
+| 🎯 **Jira** | Project management and issue tracking |  
+
+---
+
+## 🤝 Let's Connect 🔗 **Find Me Online** 
 
 <p align="center">
   <a href="https://wa.me/265991673436" target="_blank">
