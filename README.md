@@ -16,41 +16,6 @@
 
 ---
 
-## 🚀 Skills & Expertise
-
-### Programming Languages
-- **Java**: Expertise in Java development, including Java 8 and 11
-- **C++**: Proficient in C++ development, with experience in C++11 and C++14
-- **C**: Skilled in C development, with experience in C99 and C11
-- **JavaScript**: Experienced in JavaScript development, including ES6 and ES7
-- **Python**: Knowledgeable in Python development, including Python 3.x
-- **Kotlin**: Familiarity with Kotlin development, including Kotlin 1.x
-
-### Web Development
-- **React**: Expertise in React development, including React Hooks and Context API
-- **Angular**: Knowledgeable in Angular development, including Angular 2.x and Angular 4.x
-- **Vue.js**: Familiarity with Vue.js development, including Vue.js 2.x
-
-### Databases
-- **PostgreSQL**: Experienced in PostgreSQL development, including database design and optimization
-- **MySQL**: Knowledgeable in MySQL development, including database design and optimization
-- **MongoDB**: Familiarity with MongoDB development, including NoSQL database design and optimization
-
-### Cyber Security
-- **OWASP**: Knowledgeable in OWASP security principles and best practices
-- **Security Testing**: Experienced in security testing, including penetration testing and vulnerability assessment
-- **Compliance**: Familiarity with compliance frameworks, including HIPAA and PCI-DSS
-
-### Cloud Platforms
-- **AWS**: Experienced in AWS development, including EC2, S3, and Lambda
-- **Azure**: Knowledgeable in Azure development, including Azure Functions and Azure Storage
-- **Google Cloud**: Familiarity with Google Cloud development, including Google Cloud Functions and Google Cloud Storage
-
-### Agile Methodologies
-- **Scrum**: Experienced in Scrum development, including daily stand-ups and sprint planning
-- **Kanban**: Knowledgeable in Kanban development, including continuous delivery and continuous integration
-
----
 ## 🌈 Design & Tools Showcase
 
 <p align="center">
