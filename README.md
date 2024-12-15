@@ -51,15 +51,35 @@
 - **Kanban**: Knowledgeable in Kanban development, including continuous delivery and continuous integration
 
 ---
-
-## 🌈 Design & Tools
+## 🌈 Design & Tools Showcase
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="design-icons" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,html,css,js,ts,react,vue,angular,nodejs,python,java,spring,aws,azure,git,docker,vscode,github" alt="design-icons" title="Design and development tools" />
 </p>
 
-- **Design**: Figma, Adobe Photoshop  
-- **Multimedia**: Adobe Premiere, After Effects
+- **Design**: Figma, Adobe Photoshop, Adobe Illustrator  
+- **Web Development**: HTML, CSS, JavaScript, TypeScript, React, Vue.js, Angular, Node.js, Spring Boot  
+- **Mobile Development**: Flutter, React Native  
+- **DevOps**: Docker, Kubernetes, CI/CD, AWS, Azure  
+- **Database**: MySQL, PostgreSQL, MongoDB, Firebase  
+- **Other Tools**: Git, GitHub, VS Code, IntelliJ, Postman, Jira, Slack
+
+---
+## 🚀 Projects & Achievements
+
+<h3 align="center">Here are a few of my key projects and contributions:</h3>
+
+<p align="center">
+  <a href="https://github.com/RichardMulambuzi/FarmConnect">
+    <img src="https://img.shields.io/badge/FarmConnect-App-blue?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://github.com/RichardMulambuzi/awesome-projects">
+    <img src="https://img.shields.io/badge/Awesome%20Projects-GitHub-3E8E41?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/RichardMulambuzi/illovo-job-listing">
+    <img src="https://img.shields.io/badge/Illovo%20Job%20Listing-Platform-green?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -124,25 +144,41 @@
 ## ✨ Animations & Interactions
 
 <p align="center">
+  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+a+Full-Stack+Developer!;Let's+Build+Something+Great!" alt="Typing Animation" />
 </p>
 
 <p align="center">
+  <!-- Interactive Widget -->
   <a href="https://github.com/RichardMulambuzi">
     <img src="https://github.com/RichardMulambuzi/github-widget/blob/main/interactive_widget.gif" alt="Interactive Widget" />
   </a>
 </p>
 
+<!-- Add Hover Animation on GitHub Stats -->
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=RichardMulambuzi&theme=tokyonight_duo">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RichardMulambuzi&theme=tokyonight_duo" alt="GitHub Streak Stats" title="Check out my GitHub streak" />
+  </a>
+</p>
+
 ---
+## 📚 Learning & Growth
+
+<h3 align="center">I am always learning and improving!</h3>
+
+<p align="center">
+  I continuously strive to improve my skills by working on new projects, taking courses, and keeping up with the latest industry trends. Currently, I am expanding my expertise in **Cloud Technologies** and **AI/ML**.
+</p>
+
+---
+
 
 ## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://wa.me/265991673436" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-14a800?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/ahmnouira" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/richard-mlambuzi-501bb4229" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -178,5 +214,32 @@
 </p>
 
 ---
+## ☕ Support Me
+
+<p align="center">
+  <!-- PayPal -->
+  <a href="https://www.paypal.com/donate?business=richardmlambuzi5%40gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-PayPal-yellow?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+
+  <!-- Airtel Money -->
+  <a href="YOUR_AIRTEL_MONEY_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Airtel%20Money-Airtel%20Malawi-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg..." />
+  </a>
+
+  <!-- MPAMBA -->
+  <a href="YOUR_MPAMBA_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/MPAMBA-Telekom%20Networks%20Malawi-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg..." />
+  </a>
+
+  <!-- National Bank of Malawi -->
+  <a href="YOUR_NBM_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/National%20Bank%20of%20Malawi-NBM-green?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGg..." />
+  </a>
+</p>
+
+---
 
 <h2 align="center">✨ Let's Build Something Great Together! ✨</h2>
+
+---
